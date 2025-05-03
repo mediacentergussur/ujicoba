@@ -1,0 +1,380 @@
+[
+  {
+    "Unnamed: 0":1,
+    "tanggal":"2020-05-29",
+    "nama.barang":"GULA",
+    "kuantum":100000.0
+  },
+  {
+    "Unnamed: 0":2,
+    "tanggal":"2020-07-07",
+    "nama.barang":"GULA",
+    "kuantum":97950.0
+  },
+  {
+    "Unnamed: 0":3,
+    "tanggal":"2020-07-16",
+    "nama.barang":"GULA",
+    "kuantum":2050.0
+  },
+  {
+    "Unnamed: 0":4,
+    "tanggal":"2020-11-12",
+    "nama.barang":"GULA",
+    "kuantum":14000.0
+  },
+  {
+    "Unnamed: 0":5,
+    "tanggal":"2020-12-24",
+    "nama.barang":"GULA",
+    "kuantum":8000.0
+  },
+  {
+    "Unnamed: 0":6,
+    "tanggal":"2020-06-03",
+    "nama.barang":"GULA",
+    "kuantum":100000.0
+  },
+  {
+    "Unnamed: 0":7,
+    "tanggal":"2020-02-26",
+    "nama.barang":"BERAS",
+    "kuantum":164.0
+  },
+  {
+    "Unnamed: 0":8,
+    "tanggal":"2020-02-26",
+    "nama.barang":"BERAS",
+    "kuantum":8500.0
+  },
+  {
+    "Unnamed: 0":9,
+    "tanggal":"2020-06-02",
+    "nama.barang":"BERAS",
+    "kuantum":150000.0
+  },
+  {
+    "Unnamed: 0":10,
+    "tanggal":"2020-06-23",
+    "nama.barang":"BERAS",
+    "kuantum":300.0
+  },
+  {
+    "Unnamed: 0":11,
+    "tanggal":"2020-06-26",
+    "nama.barang":"BERAS",
+    "kuantum":50000.0
+  },
+  {
+    "Unnamed: 0":12,
+    "tanggal":"2020-06-29",
+    "nama.barang":"BERAS",
+    "kuantum":75000.0
+  },
+  {
+    "Unnamed: 0":13,
+    "tanggal":"2020-06-30",
+    "nama.barang":"BERAS",
+    "kuantum":50000.0
+  },
+  {
+    "Unnamed: 0":14,
+    "tanggal":"2020-07-21",
+    "nama.barang":"BERAS",
+    "kuantum":75.0
+  },
+  {
+    "Unnamed: 0":15,
+    "tanggal":"2020-07-29",
+    "nama.barang":"BERAS",
+    "kuantum":50000.0
+  },
+  {
+    "Unnamed: 0":16,
+    "tanggal":"2020-08-06",
+    "nama.barang":"BERAS",
+    "kuantum":25000.0
+  },
+  {
+    "Unnamed: 0":17,
+    "tanggal":"2020-08-14",
+    "nama.barang":"BERAS",
+    "kuantum":74.0
+  },
+  {
+    "Unnamed: 0":18,
+    "tanggal":"2020-08-24",
+    "nama.barang":"BERAS",
+    "kuantum":25000.0
+  },
+  {
+    "Unnamed: 0":19,
+    "tanggal":"2020-08-27",
+    "nama.barang":"BERAS",
+    "kuantum":50000.0
+  },
+  {
+    "Unnamed: 0":20,
+    "tanggal":"2020-09-14",
+    "nama.barang":"BERAS",
+    "kuantum":50000.0
+  },
+  {
+    "Unnamed: 0":21,
+    "tanggal":"2020-09-17",
+    "nama.barang":"BERAS",
+    "kuantum":100.0
+  },
+  {
+    "Unnamed: 0":22,
+    "tanggal":"2020-10-23",
+    "nama.barang":"BERAS",
+    "kuantum":25.0
+  },
+  {
+    "Unnamed: 0":23,
+    "tanggal":"2020-10-24",
+    "nama.barang":"BERAS",
+    "kuantum":50.0
+  },
+  {
+    "Unnamed: 0":24,
+    "tanggal":"2020-10-26",
+    "nama.barang":"BERAS",
+    "kuantum":50000.0
+  },
+  {
+    "Unnamed: 0":25,
+    "tanggal":"2020-09-15",
+    "nama.barang":"DAGING",
+    "kuantum":3000.0
+  },
+  {
+    "Unnamed: 0":26,
+    "tanggal":"2020-01-21",
+    "nama.barang":"DAGING",
+    "kuantum":4000.0
+  },
+  {
+    "Unnamed: 0":27,
+    "tanggal":"2020-03-17",
+    "nama.barang":"DAGING",
+    "kuantum":4000.0
+  },
+  {
+    "Unnamed: 0":28,
+    "tanggal":"2020-12-29",
+    "nama.barang":"DAGING",
+    "kuantum":3000.0
+  },
+  {
+    "Unnamed: 0":29,
+    "tanggal":"2020-10-07",
+    "nama.barang":"MIGOR",
+    "kuantum":4000.0
+  },
+  {
+    "Unnamed: 0":30,
+    "tanggal":"2020-11-12",
+    "nama.barang":"MIGOR",
+    "kuantum":1500.0
+  },
+  {
+    "Unnamed: 0":31,
+    "tanggal":"2020-05-11",
+    "nama.barang":"TEPUNG",
+    "kuantum":1000.0
+  },
+  {
+    "Unnamed: 0":32,
+    "tanggal":"2020-07-10",
+    "nama.barang":"TEPUNG",
+    "kuantum":1000.0
+  },
+  {
+    "Unnamed: 0":33,
+    "tanggal":"2020-09-17",
+    "nama.barang":"TEPUNG",
+    "kuantum":2000.0
+  },
+  {
+    "Unnamed: 0":34,
+    "tanggal":"2020-01-28",
+    "nama.barang":"BERAS",
+    "kuantum":75000.0
+  },
+  {
+    "Unnamed: 0":35,
+    "tanggal":"2020-02-10",
+    "nama.barang":"BERAS",
+    "kuantum":100000.0
+  },
+  {
+    "Unnamed: 0":36,
+    "tanggal":"2020-03-10",
+    "nama.barang":"BERAS",
+    "kuantum":24000.0
+  },
+  {
+    "Unnamed: 0":37,
+    "tanggal":"2020-03-12",
+    "nama.barang":"BERAS",
+    "kuantum":43100.0
+  },
+  {
+    "Unnamed: 0":38,
+    "tanggal":"2020-03-17",
+    "nama.barang":"BERAS",
+    "kuantum":50000.0
+  },
+  {
+    "Unnamed: 0":39,
+    "tanggal":"2020-03-19",
+    "nama.barang":"BERAS",
+    "kuantum":17000.0
+  },
+  {
+    "Unnamed: 0":40,
+    "tanggal":"2020-03-23",
+    "nama.barang":"BERAS",
+    "kuantum":80.0
+  },
+  {
+    "Unnamed: 0":41,
+    "tanggal":"2020-04-08",
+    "nama.barang":"BERAS",
+    "kuantum":50000.0
+  },
+  {
+    "Unnamed: 0":42,
+    "tanggal":"2020-04-27",
+    "nama.barang":"BERAS",
+    "kuantum":160.0
+  },
+  {
+    "Unnamed: 0":43,
+    "tanggal":"2020-05-03",
+    "nama.barang":"BERAS",
+    "kuantum":75000.0
+  },
+  {
+    "Unnamed: 0":44,
+    "tanggal":"2020-05-04",
+    "nama.barang":"BERAS",
+    "kuantum":50000.0
+  },
+  {
+    "Unnamed: 0":45,
+    "tanggal":"2020-05-05",
+    "nama.barang":"BERAS",
+    "kuantum":75000.0
+  },
+  {
+    "Unnamed: 0":46,
+    "tanggal":"2020-05-18",
+    "nama.barang":"BERAS",
+    "kuantum":150000.0
+  },
+  {
+    "Unnamed: 0":47,
+    "tanggal":"2020-10-24",
+    "nama.barang":"BERAS",
+    "kuantum":50000.0
+  },
+  {
+    "Unnamed: 0":48,
+    "tanggal":"2020-11-19",
+    "nama.barang":"BERAS",
+    "kuantum":50000.0
+  },
+  {
+    "Unnamed: 0":49,
+    "tanggal":"2020-11-21",
+    "nama.barang":"BERAS",
+    "kuantum":50000.0
+  },
+  {
+    "Unnamed: 0":50,
+    "tanggal":"2020-11-23",
+    "nama.barang":"BERAS",
+    "kuantum":50000.0
+  },
+  {
+    "Unnamed: 0":51,
+    "tanggal":"2020-12-03",
+    "nama.barang":"BERAS",
+    "kuantum":25000.0
+  },
+  {
+    "Unnamed: 0":52,
+    "tanggal":"2020-12-04",
+    "nama.barang":"BERAS",
+    "kuantum":50000.0
+  },
+  {
+    "Unnamed: 0":53,
+    "tanggal":"2021-02-26",
+    "nama.barang":"BERAS",
+    "kuantum":500.0
+  },
+  {
+    "Unnamed: 0":54,
+    "tanggal":"2021-03-05",
+    "nama.barang":"BERAS",
+    "kuantum":50000.0
+  },
+  {
+    "Unnamed: 0":55,
+    "tanggal":"2021-02-23",
+    "nama.barang":"DAGING",
+    "kuantum":1000.0
+  },
+  {
+    "Unnamed: 0":56,
+    "tanggal":"2021-01-06",
+    "nama.barang":"MIGOR",
+    "kuantum":4000.0
+  },
+  {
+    "Unnamed: 0":57,
+    "tanggal":"2021-03-22",
+    "nama.barang":"TEPUNG",
+    "kuantum":1500.0
+  },
+  {
+    "Unnamed: 0":58,
+    "tanggal":"2021-01-21",
+    "nama.barang":"BERAS",
+    "kuantum":50000.0
+  },
+  {
+    "Unnamed: 0":59,
+    "tanggal":"2021-03-24",
+    "nama.barang":"BERAS",
+    "kuantum":50000.0
+  },
+  {
+    "Unnamed: 0":60,
+    "tanggal":"2020-01-10",
+    "nama.barang":"BERAS",
+    "kuantum":256130.0
+  },
+  {
+    "Unnamed: 0":61,
+    "tanggal":"2020-01-10",
+    "nama.barang":"TEPUNG",
+    "kuantum":3000.0
+  },
+  {
+    "Unnamed: 0":62,
+    "tanggal":"2020-01-10",
+    "nama.barang":"MIGOR",
+    "kuantum":16148.0
+  },
+  {
+    "Unnamed: 0":63,
+    "tanggal":"2020-01-10",
+    "nama.barang":"DAGING",
+    "kuantum":1500.0
+  }
+]
